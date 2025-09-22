@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'ArtCompanyMono';
+  src: url('https://anishachana.github.io/company-fonts/ArtCompanyMono-Light.woff2') format('woff2'),
+       url('https://anishachana.github.io/company-fonts/ArtCompanyMono-Light.woff') format('woff'),
+       url('https://anishachana.github.io/company-fonts/ArtCompanyMono-Light.otf') format('opentype');
+  font-weight: 300;   /* Light weight */
+  font-style: normal;
+  font-display: swap;
+}
